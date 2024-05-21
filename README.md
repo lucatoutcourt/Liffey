@@ -4,6 +4,4 @@ The aim is to produce a modern typeface, reminiscent of Irish calligraphy. It i
 
 
 **Problem identification**  
-https://www.researchgate.net/publication/378909232_L’affirmation_de_l’identite_culturelle_a_travers_le_dessin_de_lettres_le_cas_irlandais  
-**Font and specimen download**  
-https://github.com/lucatoutcourt/Liffey  
+https://www.researchgate.net/publication/378909232_L’affirmation_de_l’identite_culturelle_a_travers_le_dessin_de_lettres_le_cas_irlandais
